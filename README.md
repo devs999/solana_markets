@@ -5,27 +5,20 @@ Solana Prediction Market Smart Contract
 
 This is a Solana smart contract written in Rust for creating and managing prediction markets. Prediction markets allow users to place bets on the outcome of future events.
 
-Table of Contents
------------------
+Features
+---------
 
 *   [Features](#features)
 *   [Getting Started](#getting-started)
-
 *   [Prerequisites](#prerequisites)
 *   [Installation](#installation)
-
 *   [Usage](#usage)
-
 *   [Creating a Market](#creating-a-market)
 *   [Placing Bets](#placing-bets)
 *   [Settling a Market](#settling-a-market)
 *   [Withdrawing Funds](#withdrawing-funds)
-
 *   [Contributing](#contributing)
 *   [License](#license)
-
-Features
---------
 
 Create prediction markets with multiple outcomes.
 
@@ -47,7 +40,9 @@ Follow these instructions to get your prediction market smart contract up and ru
 
 ### Installation
 
-`git clone https://github.com/yourusername/solana-prediction-market.git   cd solana-prediction-market   cargo build-bpf`
+git clone https://github.com/devs999/solana_markets
+cd solana_markets
+cargo build-bpf
 
 
 License
